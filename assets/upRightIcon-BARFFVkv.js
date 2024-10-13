@@ -1,1 +1,0 @@
-import{r as e}from"./index-DHMMtbGO.js";const o=t=>e.createElement("svg",{viewBox:"0 0 13 13",fill:"none",xmlns:"http://www.w3.org/2000/svg",...t},e.createElement("path",{d:"M1.16255 11.3765L11.9156 0.623424M11.9156 0.623424L11.9156 7.79215M11.9156 0.623424L4.74691 0.623424",stroke:"#0F161D",strokeWidth:1.25,strokeLinecap:"square"}));export{o as default};
