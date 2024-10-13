@@ -1,0 +1,1 @@
+{"name":"Pinger","short_name":"Pinger","start_url":"/pinger_deploy/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/pinger_deploy/","description":"손 끝으로 나의 건강을 알아내는 증상 분석 & 건강 관리 서비스","theme_color":"#ffffff","icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}]}
